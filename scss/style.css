@@ -265,7 +265,7 @@ header .header-image img {
 
 .cook .cook-text li {
   display: list-item;
-  list-style: url(/img/tick.png);
+  list-style: url(/Vegge/img/tick.png);
   margin-left: 20px;
   font-weight: 500;
   font-size: 28px;
@@ -297,7 +297,7 @@ header .header-image img {
 }
 
 .join {
-  background: url(/img/unsplash_Rm1Ca_g5Wck.png);
+  background: url(/Vegge/img/unsplash_Rm1Ca_g5Wck.png);
   background-repeat: no-repeat;
   width: 100%;
   height: auto;
